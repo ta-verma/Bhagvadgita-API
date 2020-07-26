@@ -1,0 +1,12 @@
+Flask
+Jinja2
+MarkupSafe
+Werkzeug
+gunicorn
+itsdangerous
+newrelic
+lxml
+requests
+flask-cors
+bs4
+beautifulsoup4
