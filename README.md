@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-Bhagvadgita%20API-blueviolet.svg)
 
-Horoscope API
+Bhagvadgita API
 ======
 [![GitHub issues](https://img.shields.io/github/issues/ta-verma/Bhagvadgita-API.svg)](https://github.com/ta-verma/Bhagvadgita-API/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ta-verma/Bhagvadgita-API.svg)](https://github.com/ta-verma/Bhagvadgita-API/network)
